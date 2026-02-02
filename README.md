@@ -9,4 +9,6 @@ Incremental projects towards creation of **ROS2 Nodes**.
 **Output:** 
 1) HelloRobot: basic "Hello World" script.
 2) SimpleController: first controller's logic implementation. If else conditions employed, while loop and string concatenation.
+3) Creation of the first Container, to build and run SimpleController. First Docker File creation.
 ##
+
